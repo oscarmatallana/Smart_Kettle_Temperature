@@ -2,7 +2,7 @@
 /*                                                           */
 /*   File   : smart_kettle.c                                 */
 /*   Author : Oscar Matallana                                */
-/*   Profile: Process Engineering × Software Engineering     */
+/*   Profile: Process Engineering - Software Engineering     */
 /*                                                           */
 /*   Description:                                            */
 /*   Educational simulation of a simple temperature control  */
