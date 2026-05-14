@@ -104,4 +104,4 @@ Target temperature reached.
 - Invalid Temperature Range: ./smart_kettle -5 120
 - Non-Numeric Input: ./smart_kettle hello 80
 - Water Already Hotter Than Target: ./smart_kettle 90 60
-- Missing Arguments: ./smart_kettle
+- Missing/Extra Arguments: ./smart_kettle
