@@ -90,7 +90,6 @@ cc -Wall -Wextra -Werror smart_kettle.c -o smart_kettle
 ### Example
 ./smart_kettle 20 80
 
-#### Output
 Heating from 20°C to 80°C...
 
 - Current temperature: 21°C
