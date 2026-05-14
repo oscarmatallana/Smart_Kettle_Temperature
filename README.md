@@ -93,16 +93,16 @@ cc -Wall -Wextra -Werror smart_kettle.c -o smart_kettle
 #### Output
 Heating from 20°C to 80°C...
 
-Current temperature: 21°C
-Current temperature: 22°C
-Current temperature: 23°C
+- Current temperature: 21°C
+- Current temperature: 22°C
+- Current temperature: 23°C
 ...
 Current temperature: 80°C
 
 Target temperature reached.
 
 ## Edge Cases Considered
-Invalid Temperature Range: ./smart_kettle -5 120
-Non-Numeric Input: ./smart_kettle hello 80
-Water Already Hotter Than Target: ./smart_kettle 90 60
-Missing Arguments: ./smart_kettle
+- Invalid Temperature Range: ./smart_kettle -5 120
+- Non-Numeric Input: ./smart_kettle hello 80
+- Water Already Hotter Than Target: ./smart_kettle 90 60
+- Missing Arguments: ./smart_kettle
