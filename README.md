@@ -1,4 +1,4 @@
-# 1. Smart Kettle — Temperature Control Loop in C
+# Smart Kettle — Temperature Control Loop in C
 
 A simple educational simulation of a temperature control loop for a household electric kettle.
 
